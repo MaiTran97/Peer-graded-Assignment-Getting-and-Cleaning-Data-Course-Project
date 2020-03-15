@@ -1,1 +1,0 @@
-tidydata <- read.table("./UCI HAR Dataset/train/tidydata.txt")
